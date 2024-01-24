@@ -1,0 +1,8 @@
+h1{
+    font-size: 50px;
+    background-color: deeppink;
+}
+body{
+    background-color: blue;
+    align-items: flex-start;
+}

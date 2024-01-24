@@ -1,0 +1,28 @@
+h1{
+    font-size: 40px;
+    font-style: revert;
+    font-family: "Fira Code Light";
+    display: block;
+    color: #b40e0e;
+}
+h2{
+       font-size: 30px;
+    font-style: revert;
+    font-family: "Fira Code Light"10px;
+    display: block;
+    color: goldenrod;
+}
+body{
+    background-color: aqua;
+
+}
+p{
+    font-size: inherit 40px;
+}
+h3{
+      font-size: 30px;
+    font-style: revert;
+    font-family: "padmaa"20px;
+    display: block;
+    color: #ffffff;
+}
